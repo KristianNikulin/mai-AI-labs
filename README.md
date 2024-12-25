@@ -5,13 +5,13 @@
 
 ## Датасеты
 
-- Данные UCI по сердечным заболеваниям - [https://www.kaggle.com/datasets/shree1992/housedata](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
+- Классификация: Данные UCI по сердечным заболеваниям - [https://www.kaggle.com/datasets/shree1992/housedata](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
 
-- Оценка стоимости домов - [https://www.kaggle.com/datasets/shree1992/housedata](https://www.kaggle.com/datasets/lespin/house-prices-dataset)
+- Регрессия: Оценка стоимости домов - [https://www.kaggle.com/datasets/shree1992/housedata](https://www.kaggle.com/datasets/lespin/house-prices-dataset)
 
 ## Подведение итогов / сравнение результатов
 
-Таблица с результатами работы каждого алгоритма на коассификации и регрессии.
+Таблица с результатами работы каждого алгоритма на классификации и регрессии.
 
 ### Метрики:
 
