@@ -1,9 +1,15 @@
 # AI Labs
-# Никулин Кристиан Ильич М8О-408Б-21
+## Никулин Кристиан Ильич М8О-408Б-21
 
 Лабораторные работы 1-5 по курсу "Методы, средства и технологии мультимедиа"
 
-# Подведение итогов / сравнение результатов
+## Датасеты
+
+- Данные UCI по сердечным заболеваниям - [https://www.kaggle.com/datasets/shree1992/housedata](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
+
+- Оценка стоимости домов - [https://www.kaggle.com/datasets/shree1992/housedata](https://www.kaggle.com/datasets/lespin/house-prices-dataset)
+
+## Подведение итогов / сравнение результатов
 
 Таблица с результатами работы каждого алгоритма на коассификации и регрессии.
 
